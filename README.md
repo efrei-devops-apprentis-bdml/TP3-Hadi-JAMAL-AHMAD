@@ -7,4 +7,6 @@
 ❯ pipreqs .
 ❯ python main.py
 
+Pushing to docker hub
+
 ```
