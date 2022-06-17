@@ -9,7 +9,7 @@ on: push
 
 jobs:
   push_to_registry:
-    name: Push Docker image on azure container instance
+    name: Push Docker image on Docker Hub
     runs-on: ubuntu-latest
     steps:
       - name: Check out the repo
