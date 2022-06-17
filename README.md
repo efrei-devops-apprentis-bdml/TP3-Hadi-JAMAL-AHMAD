@@ -50,7 +50,7 @@ jobs:
           
           
 
-# Github Action qui build et push l'image sur Azure Container Instances à chaque nouveau commit sur ACR 
+# Github Action qui build et push l'image sur Azure Container Instances à chaque nouveau commit sur Azure Container Registry 
 
 on: [push]
 name: Linux_Container_Workflow
