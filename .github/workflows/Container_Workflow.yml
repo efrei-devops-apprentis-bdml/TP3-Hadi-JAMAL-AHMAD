@@ -35,4 +35,4 @@ jobs:
             registry-password: ${{ secrets.REGISTRY_PASSWORD }}
             name: aci-20211136
             location: 'france central'
-'
+
