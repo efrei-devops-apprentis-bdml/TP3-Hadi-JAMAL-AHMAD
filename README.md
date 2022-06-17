@@ -105,6 +105,7 @@ jobs:
 
 
 
+
  # Test de fonctionnement
 
 PS C:\Users\hadij\Downloads\Devops\TP2_DevOps_bis\vincent-domingues-tp2> curl "http://devops-20211136.francecentral.azurecontainer.io/?lat=5.902785&lon=102.754175"
