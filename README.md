@@ -15,7 +15,7 @@ Pushing to docker hub
 
 TP3 
 
-# Push Docker image
+# Push Docker image on Docker Hub
 
 name: Publish Docker image
 
