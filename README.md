@@ -15,7 +15,7 @@ Pushing to docker hub
 
 TP3 
 
-# Push Docker image on Docker Hub
+# Push Docker image on azure container instance runs-on
 
 name: Publish Docker image
 
